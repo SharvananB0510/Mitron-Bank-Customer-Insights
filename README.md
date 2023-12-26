@@ -32,6 +32,11 @@ Design a dashboard with metrics and analysis. The end users of this dashboard ar
 - Formatted these visuals as required to present insights clearly.
 - Utilized bookmarks, slicers, and page filters to enhance user control over data.
 
+## Schema Diagram:
+
+![ER diagram Git](https://github.com/SharvananB0510/Mitron-Bank-Customer-Insights/assets/69303949/71e371a6-e7cf-4ed0-b2b7-7083ee6ade7b)
+
+
 ## Tools Used:
 - Power BI
 - MS Excel
